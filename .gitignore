@@ -211,4 +211,4 @@ datasets/
 *.model
 
 # Temporary notebook outputs
-*.out
+*.outsolutions/

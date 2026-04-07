@@ -5,6 +5,7 @@ __pycache__/
 old
 CLAUDE.md
 solutions/
+Exercises.ipynb
 
 # C extensions
 *.so
